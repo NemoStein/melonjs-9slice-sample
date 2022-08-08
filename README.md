@@ -10,7 +10,7 @@ npm run watch
 
 The melonJS dependency can be exchanged by a local copy with
 ```
-npm i `/path/to/melonjs/repo
+npm i /path/to/melonjs/repo
 ```
 
 ## Bug
