@@ -8,6 +8,11 @@ npm install
 npm run watch
 ```
 
+The melonJS dependency can be exchanged by a local copy with
+```
+npm i `/path/to/melonjs/repo
+```
+
 ## Bug
 
 The upper `NineSliceSprite` have it's `width`/`height` updated  
