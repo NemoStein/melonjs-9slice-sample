@@ -41,7 +41,7 @@ class TestStage extends Stage {
 }
 
 device.onReady(() => {
-  video.init(64, 64, { parent: 'Main' })
+  video.init(64, 64, { parent: 'Main', scale: 'auto' })
 
   loader.preload([{
     name: '9slice',
