@@ -1,0 +1,17 @@
+{
+  "include": [
+    "**/*.js"
+  ],
+  "compilerOptions": {
+    "checkJs": true,
+    "strict": true,
+    "target": "esnext",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "declarationDir": "types",
+    "newLine": "lf",
+    "allowSyntheticDefaultImports": true
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "scripts": {
+    "watch": "servor --browse --reload"
+  },
+  "author": "NemoStein <contato@nemostein.com.br> (http://nemostein.com.br)",
+  "license": "MIT",
+  "devDependencies": {
+    "melonjs": "^13.0.0",
+    "servor": "^4.0.2"
+  }
+}
